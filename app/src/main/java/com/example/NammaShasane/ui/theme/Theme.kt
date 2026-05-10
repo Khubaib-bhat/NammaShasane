@@ -1,6 +1,5 @@
-package com.example.testapp.ui.theme
+package com.example.NammaShasane.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

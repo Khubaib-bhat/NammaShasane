@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.testapp"
+    namespace = "com.example.NammaShasane"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
